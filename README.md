@@ -11,7 +11,7 @@ The dashboard focuses on the following primary KPIs:
 1. **Total Sales**: Overall revenue generated from all items sold ($1.20M)
 2. **Average Sales**: Average revenue per sale ($141)
 3. **Number of Items**: Total count of different items sold (8523)
-4. **Average Rating**: Average customer rating for items sold (3.9 out of 5)
+4. **Average Rating**: Average customer rating for items sold (4 out of 5)
 
 ## Features
 
@@ -24,7 +24,7 @@ The dashboard focuses on the following primary KPIs:
 
 ## Insights and Conclusions
 
-1. Strong overall sales performance with over $1M in total sales
+1. Strong overall sales performance with over $1.20M in total sales
 2. Consumer preference for low-fat products, indicating health-conscious buying habits
 3. Fruits, vegetables, and snack foods are the top-selling categories
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
