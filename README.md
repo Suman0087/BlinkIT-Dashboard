@@ -8,10 +8,10 @@ This Excel dashboard offers a strategic overview of Blinkit's sales, customer sa
 
 The dashboard highlights the following high-impact metrics:
 
-1. **Total Sales**: Overall revenue generated from all items sold ($1.20M)
-2. **Average Sales**: Average revenue per sale ($141)
-3. **Number of Items**: Total count of different items sold (8523)
-4. **Average Rating**: Average customer rating for items sold (4 out of 5)
+- **Total Sales**: Overall revenue generated from all items sold ($1.20M)
+- **Average Sales**: Average revenue per sale ($141)
+- **Number of Items**: Total count of different items sold (8523)
+- **Average Rating**: Average customer rating for items sold (4 out of 5)
 
 ## Features
 
