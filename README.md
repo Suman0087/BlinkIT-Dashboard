@@ -24,8 +24,8 @@ The dashboard highlights the following high-impact metrics:
 
 
 ## Key Business Insights and Conclusions
--- **Robust Sales Performance**: Over $1.2M in revenue reflects strong consumer demand
--- **Health-Focused Choices**: Low-fat items outperform regular ones, showing a shift toward healthier options
--- **Top-Selling Categories**: Fruits, vegetables, and snacks dominate overall sales
--- **High ROI in Tier 3 Locations**: Medium-sized outlets in Tier 3 cities yield the highest profitability
--- **Outlet-Type Differentiation**: Supermarkets lead in sales volume; grocery stores offer better product visibility
+- **Robust Sales Performance**: Over $1.2M in revenue reflects strong consumer demand
+- **Health-Focused Choices**: Low-fat items outperform regular ones, showing a shift toward healthier options
+- **Top-Selling Categories**: Fruits, vegetables, and snacks dominate overall sales
+- **High ROI in Tier 3 Locations**: Medium-sized outlets in Tier 3 cities yield the highest profitability
+- **Outlet-Type Differentiation**: Supermarkets lead in sales volume; grocery stores offer better product visibility
